@@ -42,7 +42,7 @@ export function HeroSection() {
               >
                 <div className="absolute inset-0 bg-gradient-to-r from-transparent via-orange-500/10 to-transparent rounded-full blur-3xl animate-pulse"></div>
                 <Image
-                  src="/placeholder.svg?height=600&width=800&text=🏍️+Sport+Bike"
+                  src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop&crop=center"
                   alt="Motocicleta Deportiva"
                   width={800}
                   height={600}

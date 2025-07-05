@@ -4,33 +4,33 @@ import Link from "next/link"
 const brands = [
   {
     name: "Yamaha",
-    logo: "/placeholder.svg?height=80&width=120&text=YAMAHA+Logo",
+    logo: "/images/brands/yamaha-logo.png",
     href: "/marcas/yamaha",
   },
   {
     name: "Honda",
-    logo: "/placeholder.svg?height=80&width=120&text=HONDA+Logo",
+    logo: "/images/brands/honda-logo.png",
     href: "/marcas/honda",
   },
   {
     name: "Kawasaki",
-    logo: "/placeholder.svg?height=80&width=120&text=KAWASAKI+Logo",
+    logo: "/images/brands/kawasaki-logo.png",
     href: "/marcas/kawasaki",
   },
   {
+    name: "Suzuki",
+    logo: "/images/brands/suzuki-logo.png",
+    href: "/marcas/suzuki",
+  },
+  {
     name: "BMW",
-    logo: "/placeholder.svg?height=80&width=120&text=BMW+Logo",
+    logo: "/images/brands/bmw-logo.png",
     href: "/marcas/bmw",
   },
   {
     name: "Harley Davidson",
-    logo: "/placeholder.svg?height=80&width=120&text=HARLEY+Logo",
+    logo: "/images/brands/harley-logo.png",
     href: "/marcas/harley-davidson",
-  },
-  {
-    name: "Ducati",
-    logo: "/placeholder.svg?height=80&width=120&text=DUCATI+Logo",
-    href: "/marcas/ducati",
   },
 ]
 
